@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+📖 I'm currently reading:
+- The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition, 2nd Edition By David Thomas and Andrew Hunt
+- Asynchronous Programming with SwiftUI and Combine by Peter Friese
+
 <!--
 **iosjulianne/iosjulianne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
